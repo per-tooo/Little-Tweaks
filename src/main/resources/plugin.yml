@@ -1,0 +1,8 @@
+name: LittleTweaks
+version: ${project.version}
+main: de.pretooo.littletweaks.LittleTweaks
+api-version: 1.16
+authors: [ PreTooo ]
+description: adds some minor functionality to the game, like respawn points at campfires
+
+commands:

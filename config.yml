@@ -1,0 +1,8 @@
+modules:
+  # set respawn point at campfire
+  campfire:
+    use: true
+    spawnset: 'New Spawn has been set! XYZ: %x / %y / %z' #placeholders: %x, %y, %z
+  # enables simple crop harvesting be right clicking the crop
+  simpleHarvest:
+    use: true
